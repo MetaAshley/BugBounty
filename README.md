@@ -15,5 +15,5 @@ List of Bug Bounty programs. A bug bounty program is a deal offered by many webs
 
 # Resources
 
-http://www.vulnerability-lab.com/list-of-bug-bounty-programs.php
-https://bugcrowd.com/list-of-bug-bounty-programs
+- http://www.vulnerability-lab.com/list-of-bug-bounty-programs.php
+- https://bugcrowd.com/list-of-bug-bounty-programs
