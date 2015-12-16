@@ -21,7 +21,10 @@ List of Bug Bounty programs. A bug bounty program is a deal offered by many webs
 
 # Contribute
 
+* Fork and submit a pull request
+
 # Resources
 
 - http://www.vulnerability-lab.com/list-of-bug-bounty-programs.php
 - https://bugcrowd.com/list-of-bug-bounty-programs
+- https://www.bountysource.com/
